@@ -1,6 +1,5 @@
 # 🌸 Iris Flower Classification using Machine Learning
 
-This project is part of the Data Science Internship by CodeAlpha.
 
 ## 📌 Project Overview
 The goal of this project is to classify Iris flower species using Machine Learning techniques based on flower measurements.
@@ -49,7 +48,7 @@ Achieved high classification accuracy on the Iris dataset.
 - Real-time flower prediction
 
 ## 📂 Project Structure
-CodeAlpha_IrisFlowerClassification/
+Iris-Flower-Classification/
 │
 ├── dataset/
 ├── notebook/
